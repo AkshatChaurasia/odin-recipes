@@ -1,0 +1,16 @@
+.heading {
+    text-align: center;
+    font-size: 50 px;
+    font-weight: bold;
+}
+
+.recipes {
+    font-size: 50 px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.steps {
+    font-weight: bold;
+    font-size: 30 px;
+}
